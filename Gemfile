@@ -3,4 +3,4 @@ gem "rspec"
 gem "sinatra"
 
 
-gem "pry", :group => "developement"
+gem "pry", :group => "development"
